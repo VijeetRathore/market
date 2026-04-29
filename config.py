@@ -1,0 +1,3 @@
+TOKEN = "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiIzWUM4ODYiLCJqdGkiOiI2OWU3OGUyZTk0N2YwODRmZTZmYWEwNzQiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6dHJ1ZSwiaXNFeHRlbmRlZCI6dHJ1ZSwiaWF0IjoxNzc2NzgyODk0LCJpc3MiOiJ1ZGFwaS1nYXRld2F5LXNlcnZpY2UiLCJleHAiOjE4MDgzNDQ4MDB9.tPJ7inl0siTnQlubTyiRiWDz23Zd4Zebq6RxQZzq1-0"  # fresh token daalo
+
+WS_URL = "wss://api.upstox.com/v2/feed/market-data-feed"
